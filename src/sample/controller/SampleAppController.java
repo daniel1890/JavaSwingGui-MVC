@@ -9,7 +9,7 @@ public class SampleAppController {
     private MVCFactory appFactory;
 
     public MVCFactory getAppFactory() {
-		return appFactory;
+	return appFactory;
 	}
     
     public SampleFrame getAppFrame() {
